@@ -1,0 +1,5 @@
+1)По ссылке необходимо скачать средства запуска backend приложения:
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-3.1.417-windows-x64-installer
+2)перейти в консоли в корневую папку WebAplication1, прописать команду "dotnet run"
+3)Запустить Backend приложение,которое будет доступно по ссылке: http://localhost:5000/api/user/
+4)Передаваемые Api поля можно редактировать в папке WebApplication1\Controllers\Controller.cs
