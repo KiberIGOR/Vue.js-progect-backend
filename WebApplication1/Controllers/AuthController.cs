@@ -11,11 +11,17 @@ namespace WebApplication1.Controllers
         [HttpPost("{login}/{password}")]
         public IActionResult Auth(string login, string password)
         {
+            if (login == "login" &&
+                password == "passw")
+            {
             var jwtProcessor = new JwtConfiguration();
 
             var generatedFreshToken = jwtProcessor.GenerateToken(1, login);
 
-            return Ok(generatedFreshToken);
+            return Ok(generatedFreshToken);}
+
+
+            return Unauthorized();
         }
         
         [HttpPost]
