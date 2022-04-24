@@ -1,19 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "QcPdrP49DM+ebgfw+m2mtd2Q2Z7HXAgdU/+Bmu2ObNzwfbL6YLn4IFBODka+Zu8aCAGuqjsd/wB6ourJXrDpXg==",
+  "dgSpecHash": "v/XxijFCMFlXEPK8QZb0Cdrcm3ZlutcTDFHHBXnq6va8mLo+jZvzGA/BZV1oIoPmIY2NDCRG08tL1ENLTD0KWg==",
   "success": true,
-  "projectFilePath": "D:\\клон 2\\Vue 2\\Vue.js-progect - Backend\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "/Users/igor/Documents/vue/Vue.js-progect-backend/WebApplication1/WebApplication1.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.23\\microsoft.aspnetcore.authentication.jwtbearer.3.1.23.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.5.0\\microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.identitymodel.logging\\6.16.0\\microsoft.identitymodel.logging.6.16.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.identitymodel.protocols\\5.5.0\\microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\5.5.0\\microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.16.0\\microsoft.identitymodel.tokens.6.16.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\system.identitymodel.tokens.jwt\\5.5.0\\system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
-    "C:\\Users\\Игорь\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "/Users/igor/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/3.1.23/microsoft.aspnetcore.authentication.jwtbearer.3.1.23.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.identitymodel.jsonwebtokens/5.5.0/microsoft.identitymodel.jsonwebtokens.5.5.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.identitymodel.logging/6.16.0/microsoft.identitymodel.logging.6.16.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.identitymodel.protocols/5.5.0/microsoft.identitymodel.protocols.5.5.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/5.5.0/microsoft.identitymodel.protocols.openidconnect.5.5.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/microsoft.identitymodel.tokens/6.16.0/microsoft.identitymodel.tokens.6.16.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/igor/.nuget/packages/system.identitymodel.tokens.jwt/5.5.0/system.identitymodel.tokens.jwt.5.5.0.nupkg.sha512",
+    "/Users/igor/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
